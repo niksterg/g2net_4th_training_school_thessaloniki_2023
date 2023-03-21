@@ -12,4 +12,4 @@ See also the warnings in the section labelled "Option 2" in [this setup page](ht
 
 ## Run the tutorial locally
 
-If you want to run the tutorlias on your laptop you need to follow the guidelines labelled "Option 3" in [this setup page](https://github.com/gw-odw/odw-2022/blob/main/setup.md) and install the correct conda version.
+If you want to run the tutorials on your laptop you need to follow the guidelines labelled "Option 3" in [this setup page](https://github.com/gw-odw/odw-2022/blob/main/setup.md) and install the correct conda version.
