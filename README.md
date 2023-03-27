@@ -7,7 +7,7 @@ Teaching material for the '[4th G2Net Training School - A network for Gravitatio
 ----
 
 ## TimeTable 
-<img src="pics/Timetable.png" width="800">
+<img src="pics/Timetable-final.jpg" width="800">
 
 ----
 
