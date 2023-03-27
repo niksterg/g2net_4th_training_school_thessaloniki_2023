@@ -35,4 +35,10 @@ Teaching material for the '[4th G2Net Training School - A network for Gravitatio
 DAY-1 (Tuesday, March 28)
 
 Agata Trovato
+- Presentation: [Gravitational Wave (Open) Data](https://github.com/niksterg/g2net_4th_training_school_thessaloniki_2023/blob/main/DAY-1/Agata_Trovato/Trovato_GWdata.pdf)
 - 1.1_Discovering_Open_Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/g2net_4th_training_school_thessaloniki_2023/blob/main/DAY-1/Agata_Trovato/Tuto_1.1_Discovering_Open_Data.ipynb)
+- 1.2 Open_Data_access_with_GWpy.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/g2net_4th_training_school_thessaloniki_2023/blob/main/DAY-1/Agata_Trovato/Tuto_1.2_Open_Data_access_with_GWpy.ipynb)
+- 1.3 Q-transforms_with_GWpy.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/g2net_4th_training_school_thessaloniki_2023/blob/main/DAY-1/Agata_Trovato/Tuto_1.3_Q-transforms_with_GWpy.ipynb)
+- 1.4 Generating_waveforms.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/g2net_4th_training_school_thessaloniki_2023/blob/main/DAY-1/Agata_Trovato/Tuto_1.4_Generating_waveforms.ipynb)
+- 2.2_Matched_Filtering_In_action.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/g2net_4th_training_school_thessaloniki_2023/blob/main/DAY-1/Agata_Trovato/Tuto_2.2_Matched_Filtering_In_action.ipynb)
+- 2.3_Signal_consistency_and_significance.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/g2net_4th_training_school_thessaloniki_2023/blob/main/DAY-1/Agata_Trovato/Tuto_2.3_Signal_consistency_and_significance.ipynb)
