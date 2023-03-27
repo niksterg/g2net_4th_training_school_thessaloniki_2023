@@ -27,3 +27,12 @@ Teaching material for the '[4th G2Net Training School - A network for Gravitatio
 * Nikolaos Stergioulas (Aristotle University of Thessaloniki)
 * Anastasios Tefas (Aristotle University of Thessaloniki)
 * Agata Trovato (University of Trieste)
+
+-----
+
+## Teaching Material:
+
+DAY-1 (Tuesday, March 28)
+
+Agata Trovato
+- 1.1_Discovering_Open_Data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/g2net_4th_training_school_thessaloniki_2023/blob/main/DAY-1/Agata_Trovato/Tuto_1.1_Discovering_Open_Data.ipynb)
