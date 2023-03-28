@@ -14,7 +14,7 @@ Teaching material for the '[4th G2Net Training School - A network for Gravitatio
 ## Lecturers:
  
 * Michal Bejger (Nicolaus Copernicus Astronomical Center)
-* Isabel Cordero Carrión (Universitat de les Illes Balears)
+* Isabel Cordero Carrión (Universitat de Valencia)
 * Elena Cuoco (European Gravitational Observatory)
 * Vladimir Ilic (Serbian Academy of Sciences and Arts)
 * Dario Jozinović (ETH Zurich)
