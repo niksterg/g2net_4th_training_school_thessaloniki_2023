@@ -42,3 +42,8 @@ Agata Trovato
 - 1.4 Generating_waveforms.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/g2net_4th_training_school_thessaloniki_2023/blob/main/DAY-1/Agata_Trovato/Tuto_1.4_Generating_waveforms.ipynb)
 - 2.2_Matched_Filtering_In_action.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/g2net_4th_training_school_thessaloniki_2023/blob/main/DAY-1/Agata_Trovato/Tuto_2.2_Matched_Filtering_In_action.ipynb)
 - 2.3_Signal_consistency_and_significance.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/g2net_4th_training_school_thessaloniki_2023/blob/main/DAY-1/Agata_Trovato/Tuto_2.3_Signal_consistency_and_significance.ipynb)
+
+DAY-2 (Wednesday, March 29)
+
+Isabel Cordero-Carrión
+- Visualization of short movie before session: [Patterns - Signals from the Universe](https://www.youtube.com/watch?v=bFgMgrE64rw&list=PLRQChI0vpMP7NKYbImJXsvNtIF-C_tj-l&index=2)
