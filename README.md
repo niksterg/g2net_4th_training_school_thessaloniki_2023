@@ -4,6 +4,8 @@
 Teaching material for the '[4th G2Net Training School - A network for Gravitational Waves, Geophysics and Machine Learning](https://indico.physics.auth.gr/event/14/)' held at the Aristotle University of Thessaloniki, Greece, 28-31 March 2023.
 
 
+<img src="pics/Group_photo_small.jpg" width="800">
+
 ----
 
 ## TimeTable 
