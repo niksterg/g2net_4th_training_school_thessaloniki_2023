@@ -50,6 +50,7 @@ DAY-2 (Wednesday, March 29)
 Isabel Cordero-Carrión
 - Visualization of short movie before session: [Patterns - Signals from the Universe](https://www.youtube.com/watch?v=bFgMgrE64rw&list=PLRQChI0vpMP7NKYbImJXsvNtIF-C_tj-l&index=2)
 - Send by email (isabel.cordero@uv.es) until the end of Thursday March 30th your script for a 5 minutes long monologue / video. You are not requested to do the monologue or the video, JUST THE SCRIPT. Don't forget to include authors of the script.
+LAST TIME COMMENT: All the participants are working very hard in the hackaton competition, so I am going to extend the period for deliver your works until the end of the school. I will read all the proposals carefully during the weekend, and give a little of input back.
 
 Nikolaos Stergioulas
 - Surrogate models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/g2net_4th_training_school_thessaloniki_2023/blob/main/DAY-2/Nikolaos_Stergioulas/Surrogate_models-final.ipynb)
