@@ -52,3 +52,6 @@ Isabel Cordero-Carrión
 Nikolaos Stergioulas
 - Surrogate models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/g2net_4th_training_school_thessaloniki_2023/blob/main/DAY-2/Nikolaos_Stergioulas/Surrogate_models-final.ipynb)
 
+DAY-3 (Thursday, March 30)
+
+[Hackathon on Kaggle!](https://www.kaggle.com/competitions/g2net-hackathon/overview/description) 
