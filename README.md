@@ -63,10 +63,6 @@ LAST TIME COMMENT: All the participants are working very hard in the hackaton co
 - The top teams will then have the opportunity to briefly present their network archicture (either in person or remotely).
 - The hackathon will be ongoing for another week, to allow participants to spend more time to improve their results!
 
-**To-10 Leaderboard at 12:45pm local time, Friday, March 31, 2023**
-
-<img src="pics/Screenshot.png" width="800">
-
 <!--- 
 
 | Teams  | Score |
@@ -99,4 +95,10 @@ LAST TIME COMMENT: All the participants are working very hard in the hackaton co
 
 *Natalia Korsakova*
 - Machine Learning for Gravitational Wave Parameter Estimation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NataliaKor/tutorial/blob/main/tutorial-ML-for-GWPE.ipynb) 
+
+
+**To-10 Leaderboard at 12:45pm local time, Friday, March 31, 2023**
+
+<img src="pics/Screenshot.png" width="800">
+
 
