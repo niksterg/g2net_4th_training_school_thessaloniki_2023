@@ -58,3 +58,9 @@ Nikolaos Stergioulas
 DAY-3 (Thursday, March 30)
 
 [Hackathon on Kaggle!](https://www.kaggle.com/competitions/g2net-hackathon/overview/description) 
+
+DAY-4 (Friday, March 31)
+
+Natalia Korsakova
+- Machine Learning for Gravitational Wave Parameter Estimation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NataliaKor/tutorial/blob/main/tutorial-ML-for-GWPE.ipynb) 
+
