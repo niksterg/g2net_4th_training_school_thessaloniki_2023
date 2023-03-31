@@ -59,6 +59,11 @@ DAY-3 (Thursday, March 30)
 
 [Hackathon on Kaggle!](https://www.kaggle.com/competitions/g2net-hackathon/overview/description) 
 
+- We will take a screenshot of the private leaderboard and post it here at 12:45pm local time on Friday, March 31.
+- The top teams will then have the opportunity to briefly present their network archicture (either in person or remotely).
+- The hackathon will be ongoing for another week, to allow participants to spend more time to improve their results!
+
+
 DAY-4 (Friday, March 31)
 
 Natalia Korsakova
