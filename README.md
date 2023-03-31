@@ -65,6 +65,10 @@ LAST TIME COMMENT: All the participants are working very hard in the hackaton co
 
 **To-10 Leaderboard at 12:45pm local time, Friday, March 31, 2023**
 
+<img src="pics/Screenshot.png" width="800">
+
+<!--- 
+
 | Teams  | Score |
 | ------------- | ------------- |
 |    |    |
@@ -72,6 +76,8 @@ LAST TIME COMMENT: All the participants are working very hard in the hackaton co
 |    |    |
 |    |    |
 |    |    |
+
+-->
 
 <!---    
 
