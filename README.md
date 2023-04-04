@@ -18,7 +18,7 @@ Teaching material for the '[4th G2Net Training School - A network for Gravitatio
 * Michal Bejger (Nicolaus Copernicus Astronomical Center)
 * Isabel Cordero Carrión (Universitat de Valencia)
 * Elena Cuoco (European Gravitational Observatory)
-* Vladimir Ilic (Serbian Academy of Sciences and Arts)
+* Veliimir Ilic (Serbian Academy of Sciences and Arts)
 * Dario Jozinović (ETH Zurich)
 * Soumen Koley (Gran Sasso Science Institute)
 * Natalia Korsakova (Astroparticule et Cosmologie, Paris)
