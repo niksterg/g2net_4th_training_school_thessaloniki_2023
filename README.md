@@ -74,8 +74,10 @@ LAST TIME COMMENT: All the participants are working very hard in the hackaton co
 
 **To-10 Leaderboard at 12:45pm local time, Friday, March 31, 2023**
 
+(the private score on Kaggle is shown (70% of the test data)
 
-| Teams  | Public Score |
+
+| Teams  | Score |
 | ------------- | ------------- |
 |  Joan	Llobera, Maria de Lluc Planas  |  0.84185 |
 |  Osvaldo Freitas, Dimitra Tseneklidou, Miquel Llorens  |  0.83585  |
