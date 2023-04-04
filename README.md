@@ -63,34 +63,9 @@ LAST TIME COMMENT: All the participants are working very hard in the hackaton co
 - The top teams will then have the opportunity to briefly present their network archicture (either in person or remotely).
 - The hackathon will be ongoing for another week, to allow participants to spend more time to improve their results!
 
-<!--- 
 
-| Teams  | Score |
-| ------------- | ------------- |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
-|    |    |
 
--->
 
-<!---    
-
-| Teams  | Score |
-| ------------- | ------------- |
-|  ReflectiveOwl (?) |  0.84042  |
-|  Osvaldo Freitas, Dimitra Tseneklidou, Miquel Llorens  |  0.83585  |
-|  Rahul Dhurkunde, Francisco Jimenez  |  0.83314  |
-|  Guillem	Fernandez  |  0.83200  |
-|  Joan	Llobera  |  0.83100  |
-|  Athanasios Papanikolaou  |  0.83085  |
-|  Ángel Garrón  |  0.83057  |
-|  Anastasia Iliopoulou  |  0.82985  |
-|  Kimon Zagkouris  |  0.82771  |
-|  George Kesoglidis, Margaret Fylaktaki  |  0.82771  |
-
--->
 **DAY-4 (Friday, March 31)**
 
 *Natalia Korsakova*
@@ -98,6 +73,20 @@ LAST TIME COMMENT: All the participants are working very hard in the hackaton co
 
 
 **To-10 Leaderboard at 12:45pm local time, Friday, March 31, 2023**
+
+
+| Teams  | Public Score |
+| ------------- | ------------- |
+|  Joan	Llobera, Maria de Lluc Planas  |  0.84185 |
+|  Osvaldo Freitas, Dimitra Tseneklidou, Miquel Llorens  |  0.83585  |
+|  Vladimir Sintsov |  0.83457  |
+|  Federico de Santi | 0.83328  |
+|  Rahul Dhurkunde, Francisco Jimenez  |  0.83314  |
+|  Guillem	Fernandez  |  0.83200  |
+|  Athanasios Papanikolaou  |  0.83085  |
+|  Ángel Garrón  |  0.83057  |
+|  Anastasia Iliopoulou  |  0.82985  |
+|  George Kesoglidis, Margaret Fylaktaki  |  0.82771  |
 
 <img src="pics/Screenshot.png" width="800">
 
