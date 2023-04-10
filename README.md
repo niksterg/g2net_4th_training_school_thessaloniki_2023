@@ -52,6 +52,8 @@ Teaching material for the '[4th G2Net Training School - A network for Gravitatio
 - Send by email (isabel.cordero@uv.es) until the end of Thursday March 30th your script for a 5 minutes long monologue / video. You are not requested to do the monologue or the video, JUST THE SCRIPT. Don't forget to include authors of the script.
 LAST TIME COMMENT: All the participants are working very hard in the hackaton competition, so I am going to extend the period for deliver your works until the end of the school. I will read all the proposals carefully during the weekend, and give a little of input back.
 
+The top 3 selections of the submitted works for the outreach activity during Isabel Cordero Carrión's lecture are: [Amlan Nanda](https://github.com/niksterg/g2net_4th_training_school_thessaloniki_2023/blob/main/DAY-2/Isabel_Cordero-Carrion/Amlan%20Nanda.pdf), [Evdokia Koursoumpa](https://github.com/niksterg/g2net_4th_training_school_thessaloniki_2023/blob/main/DAY-2/Isabel_Cordero-Carrion/Evdokia%20Koursoumpa.pdf) and [Vladimir Sivtsov](https://github.com/niksterg/g2net_4th_training_school_thessaloniki_2023/blob/main/DAY-2/Isabel_Cordero-Carrion/Vladimir%20Sivtsov.pdf). Congratulations!
+
 *Nikolaos Stergioulas*
 - Surrogate models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/niksterg/g2net_4th_training_school_thessaloniki_2023/blob/main/DAY-2/Nikolaos_Stergioulas/Surrogate_models-final.ipynb)
 
